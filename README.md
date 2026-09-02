@@ -5,14 +5,14 @@ An enterprise website for a photographer that  allows clients to request service
 This project is being developed as part of the ITC327W Work-Integrated Learning module at Central University of Technology. It is a Photographer Website & Client Management Platform built for a real stakeholder, TM Visuals (Photography and Videography), to solve real business problems around booking, client communication, portfolio visibility, and content delivery.
 
 ## Group Members
-- Sibusiso Lukhele
-- Musa Bonga
-- Siphosethu Mbasa
-- Zubenathi Mvimbi
-- Koketso Matsane
-- Kamohelo
-- Mpho
-- Brandon 
+- S Lukhele
+- M Bonga
+- S Mbasa
+- Z Mvimbi
+- K Matsane
+- KTJ Patsoane
+- MF Mulaudzi
+- B Lombaard 
  
 ## Tech Stack
 Flutter - mobile application

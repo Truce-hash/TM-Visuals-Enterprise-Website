@@ -10,7 +10,7 @@ This project is being developed as part of the ITC327W Work-Integrated Learning 
 - S Mbasa
 - Z Mvimbi
 - K Matsane
-- KTJ Patsoane
+- KTJ Phatsoane
 - MF Mulaudzi
 - B Lombaard 
  
@@ -20,8 +20,8 @@ ASP.NET - web application
 Supabase - authentication and storage
 
 ## Stakeholder
-TM Visuals — Photography and Videography business, represented by Tshedza Mulaudzi.
+TM Visuals â€” Photography and Videography business, represented by Tshedza Mulaudzi.
 
 ## Repository Structure
 
-- `/ASP.NET-WebApp` — web application source code
+- `/ASP.NET-WebApp` â€” web application source code

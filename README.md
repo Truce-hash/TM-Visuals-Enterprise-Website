@@ -1,4 +1,27 @@
 # Photography-Enterprise-Website
-The aim of the project is to develop a professional website for TM Visuals that provides a central place for clients to view the portfolio, make enquiries, manage bookings, check availability and securely access their completed photographs and videos. It will allow the administrator to view and manage client information.
+An enterprise website for a photographer that  allows clients to request services and ease receiving what they requested for.
+
+## Project Overview 
+This project is being developed as part of the ITC327W Work-Integrated Learning module at Central University of Technology. It is a Photographer Website & Client Management Platform built for a real stakeholder, TM Visuals (Photography and Videography), to solve real business problems around booking, client communication, portfolio visibility, and content delivery.
+
 ## Group Members
-- 
+- S Lukhele
+- M Bonga
+- S Mbasa
+- Z Mvimbi
+- K Matsane
+- KTJ Phatsoane
+- MF Mulaudzi
+- B Lombaard 
+ 
+## Tech Stack
+Flutter - mobile application
+ASP.NET - web application
+Supabase - authentication and storage
+
+## Stakeholder
+TM Visuals — Photography and Videography business, represented by Tshedza Mulaudzi.
+
+## Repository Structure
+
+- `/ASP.NET-WebApp` — web application source code
